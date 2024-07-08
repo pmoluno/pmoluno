@@ -33,7 +33,7 @@
  
 **About Me** 
 
-<p>💼 Self-Taught Fullstack Developer </p>
+<p>💼 Software Engineer with Expertise in | JavaScript | Python | Others </p>
 
 💬 Ask me about anything [here](https://github.com/pmoluno/pmoluno/issues)
 
