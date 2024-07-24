@@ -7,15 +7,8 @@
 
 <!-- Social button  -->
 <div align="center">
-<!-- Light Mode -->
-<a href="https://twitter.com/intent/follow?screen_name=pmoluno#gh-light-mode-only">
-<img src="https://img.shields.io/badge/follow-%40pmoluno-1DA1F2?style=for-the-badge&logo=twitter&labelColor=000&color=3572A5#gh-light-mode-only" alt="Follow me on twitter" >
-</a>
-<!-- Dark Mode -->
-<a href="https://twitter.com/intent/follow?screen_name=pmoluno#gh-dark-mode-only">
-<img src="https://img.shields.io/badge/follow-%40pmoluno-1DA1F2?style=for-the-badge&logo=twitter&labelColor=000&color=FFF#gh-dark-mode-only" alt="Follow me on twitter" >
-</a>
-&nbsp;
+
+
 
 <!-- Light Mode -->
 <a href="https://www.linkedin.com/in/pureheart-moluno#gh-light-mode-only">
